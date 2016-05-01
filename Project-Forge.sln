@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{07A1CF84-6C73-CF6C-21BE-EE9CC42441C2}") = "Project-Forge", "Assembly-CSharp-firstpass.csproj", "{11D9761A-AABE-BDEC-CAF6-CC436DE685BC}"
+Project("{07A1CF84-6C73-CF6C-21BE-EE9CC42441C2}") = "Project-Forge", "Assembly-CSharp.csproj", "{FB05BE22-494A-55FF-048D-C3972060E8DF}"
 EndProject
 Project("{07A1CF84-6C73-CF6C-21BE-EE9CC42441C2}") = "Project-Forge", "Assembly-CSharp-Editor.csproj", "{F9BF0A8B-E7A3-5393-C8C0-32BFDEFC3C91}"
 EndProject
@@ -10,10 +10,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{11D9761A-AABE-BDEC-CAF6-CC436DE685BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11D9761A-AABE-BDEC-CAF6-CC436DE685BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11D9761A-AABE-BDEC-CAF6-CC436DE685BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11D9761A-AABE-BDEC-CAF6-CC436DE685BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB05BE22-494A-55FF-048D-C3972060E8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB05BE22-494A-55FF-048D-C3972060E8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB05BE22-494A-55FF-048D-C3972060E8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB05BE22-494A-55FF-048D-C3972060E8DF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F9BF0A8B-E7A3-5393-C8C0-32BFDEFC3C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F9BF0A8B-E7A3-5393-C8C0-32BFDEFC3C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9BF0A8B-E7A3-5393-C8C0-32BFDEFC3C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
